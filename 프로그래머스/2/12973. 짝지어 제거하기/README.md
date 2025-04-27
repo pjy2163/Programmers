@@ -1,3 +1,9 @@
+# Stack이용한 방법.
+## pop() 
+## push()
+## peek() -> 현재 문자열 (위에 있는 거 꺼내기)
+
+
 # [level 2] 짝지어 제거하기 - 12973 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12973) 
