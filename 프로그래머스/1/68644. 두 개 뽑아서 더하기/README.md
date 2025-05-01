@@ -1,3 +1,7 @@
+TreeSet 보다 HashSet이 더 효율적이라고 함.
+자동 정렬은 안되기 때문에 리턴할때 정렬해주어야 함
+ return set.stream().sorted().mapToInt(Integer::intValue).toArray();
+
 # [level 1] 두 개 뽑아서 더하기 - 68644 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/68644) 
